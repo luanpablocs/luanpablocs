@@ -1,7 +1,13 @@
-## Olá! Eu sou o Luan Pablo 👌
+## Olá! Eu sou o Luan Pablo 
+
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanpablocs&color=blue" alt="Profile views /> </p>"
+</div>
 
 - 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React/Typescript/Tailwind/Node
+- 🌱 Estudando React/Typescript/Tailwind/NodeJS
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-pablo-correa-santos-161181211/">
@@ -17,7 +23,7 @@
   <img align="center" alt="Luan-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Luan-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Luan-Node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Luan-VSCode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Luan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://github.com/luanpablocs.png">
 </div>
 
