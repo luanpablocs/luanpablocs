@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanpablocs&color=blue" alt="Profile views /> </p>"
 </div>
 
-- 🙆🏻‍♂️ Luan / 29 years 🙌🏻 / married 💍 / Arthur's father 👶🏻
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React/Typescript/Tailwind/NodeJS
-
+- 🙆🏻‍♂️ Luan / 29y 🙌🏻 / married 💍 / Arthur's father 👶🏻 / Casual gamer 🎮
+- 🔭 Work as a Front-End
+- 🌱 Learning React/Typescript/Tailwind/NodeJS
 
 
 <div align="center">
@@ -34,7 +33,9 @@
   <a href="https://instagram.com/luanpablocs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luanpablo@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-pablo-correa-santos-161181211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/luanpablocs/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"><a/>
+  <a href="https://account.xbox.com/pt-BR/Profile?GamerTag=luanpablocs" target="_blank"><img	src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"><a/>
+  <a href="https://www.trueachievements.com/gamer/LuanPabloCS"><img src="https://www.trueachievements.com/gamercards/LuanPabloCS.png"/></a>
+  <a href="https://mygamerprofile.net/gamer/LuanPabloCS"><img src="https://mygamerprofile.net/card/bar/LuanPabloCS.png" /></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
