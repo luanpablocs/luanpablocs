@@ -1,12 +1,15 @@
-## Hi! I'm Luan Pablo 
+## Hi, there...
 
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanpablocs&color=blue" alt="Profile views /> </p>"
 </div>
 
-- 🙆🏻‍♂️ Luan / 29y 🙌🏻 / married 💍 / Arthur's father 👶🏻 / Casual gamer 🎮
-- 🔭 Work as a Front-End
-- 🌱 Learning React/Typescript/Tailwind/NodeJS
+ > **About me:**
+  
+- 🙆🏻‍♂️ My name is <b>Luan Pablo</b> / i'm 29 years old 🙌🏻 / married to @_vanessafontana 💍 / Arthur's father 👶🏻💚 / Casual gamer 🎮
+- 🌎 From Brazil to the world
+- 👨🏻‍💻 I work as a front-end at <b>Eadoo Tec Lab</b>
+- 📚 Learning React/Typescript/Tailwind/NodeJS
 
 
 <div align="center">
