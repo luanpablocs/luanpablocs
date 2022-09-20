@@ -1,9 +1,10 @@
-## Olá! Eu sou o Luan Pablo 
+## Hi! I'm Luan Pablo 
 
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanpablocs&color=blue" alt="Profile views /> </p>"
 </div>
 
+- 🙆🏻‍♂️ Luan / 29 years 🙌🏻 / married 💍 / Arthur's father 👶🏻
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando React/Typescript/Tailwind/NodeJS
 
