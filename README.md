@@ -17,6 +17,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanpablocs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpablocs&layout=compact&langs_count=7&theme=light"/>
 </div>
+ 
+<br>
+ 
+  > **Main skills:**
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
