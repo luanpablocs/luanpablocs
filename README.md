@@ -6,7 +6,7 @@
 
  > **About me:**
   
-- 🙆🏻‍♂️ My name is <b>Luan Pablo</b> / i'm 29 years old 🙌🏻 / married to @_vanessafontana 💍 / Arthur's father 👶🏻💚 / Casual gamer 🎮
+- 🙆🏻‍♂️ My name is <b>Luan Pablo</b> / i'm 29 years old 🙌🏻 / married to @_vanessafontana 💍 / Arthur's father 👶🏻💚 / casual gamer 🎮
 - 🌎 From Brazil to the world
 - 👨🏻‍💻 I work as a front-end at <b>Eadoo Tec Lab</b>
 - 📚 Learning React/Typescript/Tailwind/NodeJS
@@ -34,7 +34,7 @@
   <img align="center" alt="Luan-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Luan-Node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Luan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://github.com/luanpablocs.png">
+  
 </div>
 
 ##
