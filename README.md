@@ -9,11 +9,11 @@
 - 🙆🏻‍♂️ My name is <b>Luan Pablo</b> / i'm 29 years old 🙌🏻 / married to @_vanessafontana 💍 / Arthur's father 👶🏻💚 / casual gamer 🎮
 - 🌎 From Brazil to the world
 - 👨🏻‍💻 I work as a front-end at <b>Eadoo Tec Lab</b>
-- 📚 Learning React/Typescript/Tailwind/NodeJS
+- 📚 Learning ReactJS/Typescript/TailwindCSS/NodeJS
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luan-pablo-correa-santos-161181211/">
+  <a href="https://www.linkedin.com/in/luan-pablo-161181211/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanpablocs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpablocs&layout=compact&langs_count=7&theme=light"/>
 </div>
