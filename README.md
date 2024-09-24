@@ -6,7 +6,7 @@
 
  > **About me:**
   
-- 🙆🏻‍♂️ My name is <b>Luan Pablo</b> / i'm 29 years old 🙌🏻 / married to @_vanessafontana 💍 / Arthur's father 👶🏻💚 / casual gamer 🎮
+- 🙆🏻‍♂️ My name is <b>Luan Pablo</b> / i'm 29 years old 🙌🏻 / married to @_vanessafontana 💍 / Arthur and Alice's father 👦💚💖👧  / casual gamer 🎮
 - 🌎 From Brazil to the world
 - 👨🏻‍💻 I work as a front-end at <b>Eadoo Tec Lab</b>
 - 📚 Learning ReactJS/Typescript/TailwindCSS/NodeJS
