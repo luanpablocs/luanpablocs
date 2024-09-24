@@ -18,8 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpablocs&layout=compact&langs_count=7&theme=light"/>
 </div>
  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=luanpablocs&theme=nord&hide_border=true&area=true)
- 
 <br>
  
   > **Main skills:**
